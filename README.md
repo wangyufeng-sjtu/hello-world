@@ -1,2 +1,7 @@
 # hello-world
-test
+  include<iostream>
+  using namespace std;
+  cout<<"Hello world"<<endl;
+  
+
+
